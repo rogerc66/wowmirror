@@ -1,0 +1,17 @@
+tag v2.8.4
+b53be035d2ca806ea33f0e6b506058ae16723e04
+Adirelle <adirelle@gmail.com>
+2013-05-24 16:41:50 +0200
+
+Updated for 5.3.
+
+
+--------------------
+
+Adirelle:
+	- Forgot to bump the minor number.
+slaren:
+	- updated toc, fixed glyph of blinding light spellid, added symbiosis versions of solar beam, grapple weapon, intimidating roar, hammer of justice, entangling roots, frost nova, cyclone (most untested)
+Cybeloras:
+	- Looks like Seduce and Mesmerize really are on the fear DR (from the AJ thread)
+	- Seduction and Mesmerize are Disorients, not fears (from the AJ thread)
