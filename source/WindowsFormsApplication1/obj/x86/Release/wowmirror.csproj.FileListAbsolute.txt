@@ -1,0 +1,9 @@
+E:\Game\wowbeesource\wowbee\WindowsFormsApplication1\bin\Release\wowmirror.exe
+E:\Game\wowbeesource\wowbee\WindowsFormsApplication1\bin\Release\wowmirror.pdb
+E:\Game\wowbeesource\wowbee\WindowsFormsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Game\wowbeesource\wowbee\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+E:\Game\wowbeesource\wowbee\WindowsFormsApplication1\obj\x86\Release\wowmirror.Properties.Resources.resources
+E:\Game\wowbeesource\wowbee\WindowsFormsApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Game\wowbeesource\wowbee\WindowsFormsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Game\wowbeesource\wowbee\WindowsFormsApplication1\obj\x86\Release\wowmirror.exe
+E:\Game\wowbeesource\wowbee\WindowsFormsApplication1\obj\x86\Release\wowmirror.pdb
