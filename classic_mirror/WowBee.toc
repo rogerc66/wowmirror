@@ -1,4 +1,4 @@
-﻿## Interface: 33500
+﻿## Interface: 40100
 ## Title: WowBee Core Library
 ## Title-zhCN:@|cff00ff00魔镜 |cff0055FF核心库|r
 ## Title-zhTW:@|cff00ff00魔镜 |cff0055FF核心庫|r
