@@ -7,3 +7,11 @@ E:\Game\wowbeesource\wowbee\WindowsFormsApplication1\obj\x86\Release\GenerateRes
 E:\Game\wowbeesource\wowbee\WindowsFormsApplication1\obj\x86\Release\GenerateResource.write.1.tlog
 E:\Game\wowbeesource\wowbee\WindowsFormsApplication1\obj\x86\Release\wowmirror.exe
 E:\Game\wowbeesource\wowbee\WindowsFormsApplication1\obj\x86\Release\wowmirror.pdb
+D:\Downloads\Github\wowmirror\source\WindowsFormsApplication1\bin\Release\wowmirror.exe
+D:\Downloads\Github\wowmirror\source\WindowsFormsApplication1\bin\Release\wowmirror.pdb
+D:\Downloads\Github\wowmirror\source\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\Downloads\Github\wowmirror\source\WindowsFormsApplication1\obj\x86\Release\wowmirror.Properties.Resources.resources
+D:\Downloads\Github\wowmirror\source\WindowsFormsApplication1\obj\x86\Release\wowmirror.csproj.GenerateResource.cache
+D:\Downloads\Github\wowmirror\source\WindowsFormsApplication1\obj\x86\Release\wowmirror.csproj.CoreCompileInputs.cache
+D:\Downloads\Github\wowmirror\source\WindowsFormsApplication1\obj\x86\Release\wowmirror.exe
+D:\Downloads\Github\wowmirror\source\WindowsFormsApplication1\obj\x86\Release\wowmirror.pdb

@@ -1,0 +1,9 @@
+D:\Downloads\Github\wowmirror\source\WindowsFormsApplication1\obj\x86\Debug\wowmirror.csprojAssemblyReference.cache
+D:\Downloads\Github\wowmirror\source\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Downloads\Github\wowmirror\source\WindowsFormsApplication1\obj\x86\Debug\wowmirror.Properties.Resources.resources
+D:\Downloads\Github\wowmirror\source\WindowsFormsApplication1\obj\x86\Debug\wowmirror.csproj.GenerateResource.cache
+D:\Downloads\Github\wowmirror\source\WindowsFormsApplication1\obj\x86\Debug\wowmirror.csproj.CoreCompileInputs.cache
+D:\Downloads\Github\wowmirror\source\WindowsFormsApplication1\bin\Debug\wowmirror.exe
+D:\Downloads\Github\wowmirror\source\WindowsFormsApplication1\bin\Debug\wowmirror.pdb
+D:\Downloads\Github\wowmirror\source\WindowsFormsApplication1\obj\x86\Debug\wowmirror.exe
+D:\Downloads\Github\wowmirror\source\WindowsFormsApplication1\obj\x86\Debug\wowmirror.pdb

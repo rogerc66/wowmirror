@@ -271,7 +271,9 @@ namespace WindowsFormsApplication1
                                 step=1;
                                 System.Diagnostics.Trace.WriteLine("write OK");
                                 SendMessage(hwnd, 0x0100, 0x7B, 0);
+                                //PostMessage(hwnd, 0x0100, 0x7B, 0);
                                 SendMessage(hwnd, 0x0101, 0x7B, 0);
+                                //PostMessage(hwnd, 0x0101, 0x7B, 0);
                             }
                             else
                             {
